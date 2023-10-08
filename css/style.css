@@ -1,0 +1,41 @@
+body {
+  font-family: 'Montserrat';
+}
+.navbar {
+  background-color: #171717;
+}
+.nav-item {
+  margin-right: 24px;
+}
+.nav-item.active a {
+  color: #f9b234 !important;
+  font-weight: 600;
+}
+
+.carousel {
+  height: 500px;
+  background-color: #171717;
+  color: white;
+}
+.carousel h1,
+h2 {
+  font-family: 'lora';
+}
+.carousel p {
+  font-weight: 200;
+}
+.TI h3 {
+  font-family: 'Lora';
+  color: #171717;
+  font-weight: bold;
+}
+.TI p {
+  font-family: 'Lora';
+
+  color: #171717;
+}
+.TI h5 {
+  font-family: 'Lora';
+  color: #1b2690;
+  font-weight: bold;
+}
